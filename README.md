@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=zig,sqlite,git,docker&perline=8" />
+  </a>
+</p>
+
 # language
 
 the main language will be very python-esque. the performance of C, with the style of python, and compile time of zig
